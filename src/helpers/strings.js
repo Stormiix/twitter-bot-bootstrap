@@ -8,7 +8,7 @@ module.exports = {
         'atom.io',
         'nodejs',
         'node.js',
-        'php.net',
+        'php',
         'laravelnews',
         'Laravel News',
         'GitLab',
@@ -17,6 +17,7 @@ module.exports = {
     ],
     queryStringSubQuery: [
         '',
+        ' tutorial',
         ' best practices',
         ' handy tip',
         ' how to',
@@ -34,6 +35,6 @@ module.exports = {
     responseString: [
         'Hi @screenName thanks for the following!',
         '@screenName thanks for following :D',
-        'Hey @screenName thanks for the follow'
+        'Hey @screenName thanks for the follow !'
     ]
 }

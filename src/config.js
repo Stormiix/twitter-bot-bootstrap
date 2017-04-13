@@ -16,8 +16,8 @@ module.exports = {
     consumerSecret: process.env.TWITTER_CONSUMER_SECRET,
     accessToken: process.env.TWITTER_ACCESS_TOKEN,
     accessTokenSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
-    retweet: 5,
-    favorite: 10
+    retweet: 10,
+    favorite: 20
   },
   sentiment: process.env.SENTIMENT_KEY
 }
