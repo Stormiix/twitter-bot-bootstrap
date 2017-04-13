@@ -33,8 +33,8 @@ module.exports = {
         'popular'
     ],
     responseString: [
-        'Hi @screenName thanks for the following!',
+        //'Hi @screenName thanks for the following!',
         '@screenName thanks for following :D',
-        'Hey @screenName thanks for the follow !'
+        //'Hey @screenName thanks for the follow !'
     ]
 }
