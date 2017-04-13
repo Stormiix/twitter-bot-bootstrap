@@ -4,7 +4,7 @@ module.exports = {
         '100daysofcode',
         'freecodecamp',
         'github',
-        'gitlab',
+        'I Am Devloper‏',
         'atom.io',
         'nodejs',
         'node.js',
@@ -17,6 +17,7 @@ module.exports = {
     ],
     queryStringSubQuery: [
         '',
+        ' joke',
         ' tutorial',
         ' best practices',
         ' handy tip',
