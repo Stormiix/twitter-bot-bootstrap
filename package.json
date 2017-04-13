@@ -12,7 +12,7 @@
     "snyk-protect": "snyk protect",
     "prepublish": "npm run snyk-protect"
   },
-  "author": "",
+  "author": "Stormix",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^4.0.0",
@@ -21,5 +21,13 @@
     "unirest": "^0.5.1",
     "snyk": "^1.25.1"
   },
-  "snyk": true
+  "snyk": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stormiix/twitter-bot-bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stormiix/twitter-bot-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Stormiix/twitter-bot-bootstrap#readme"
 }
