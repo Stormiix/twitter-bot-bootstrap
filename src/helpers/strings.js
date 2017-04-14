@@ -1,6 +1,7 @@
 module.exports = {
     queryString: [
         'google',
+        'Scotch.io',
         '100daysofcode',
         'freecodecamp',
         'github',
@@ -17,6 +18,7 @@ module.exports = {
     ],
     queryStringSubQuery: [
         '',
+        ' building',
         ' joke',
         ' tutorial',
         ' best practices',
